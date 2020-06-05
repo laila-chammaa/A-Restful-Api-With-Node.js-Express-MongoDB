@@ -4,4 +4,4 @@ used Node.js as my backend language, express.js is going to help create routes e
 
 used MongoDB Atlas and Postman
 
-![posts.png]
+![](posts.png)
